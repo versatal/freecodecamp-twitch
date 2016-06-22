@@ -1,0 +1,42 @@
+body {
+  background-color: lightblue;
+font-family: Verdana, Arial, Helv, Helvetica, sans-serif;}
+
+.header {
+  border: 1px solid;
+}
+.theHead {
+  text-align: center;
+  background-color: silver;
+}
+
+.twitchLogo {
+  display: block;
+  max-width: 40%;
+  height: auto;
+}
+}
+.strOnline {
+  background-color: lightyellow;
+}
+.strOffline {
+  background-color: lightgreen;
+}
+
+td {
+  padding: 10px; 
+}
+.row1 {
+  width: 20%;
+}
+
+.row2 {
+  width: 20%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.row3 {
+  width: 60%;
+  text-align: center;
+}
